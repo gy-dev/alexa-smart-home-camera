@@ -1,0 +1,7 @@
+{
+    "server": {
+        "protocol": "http",
+        "host": "domainName",
+        "port": 66666
+    }
+}
